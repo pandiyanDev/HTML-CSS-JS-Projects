@@ -24,7 +24,6 @@ function updateCountdown() {
 
 }
 
-
 function toggleCountdown() {
   if (isCountdown) {
     clearInterval(countdownInterval);
